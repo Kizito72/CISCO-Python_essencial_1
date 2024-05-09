@@ -2,4 +2,5 @@
 # See the README file, to unederstand the LAb Task
 
 print("Hello, Python!")
+print("Ki"+"zito")
 print('Kizito Derald')
