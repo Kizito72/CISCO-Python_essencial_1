@@ -1,10 +1,10 @@
-# LET US CHECK HOW FAR WE HAVE GONE
+print ("\n\nLET US CHECK HOW FAR WE HAVE GONE")
 
 # learner State
 learner = "I believe deep down you, you are better today than you were 3 months ago."
 
 # Self assess your learneing progress from 5 to 100 percent
-learner = int(input("Input your self assessment result in percentage, Type only the figure. E.g. 20 for 20 percent: "))
+learner = int(input("\nInput your self assessment result in percentage, Type only the figure. E.g. 20 for 20 percent: \n"))
 
 #declaring variables for diferent learning progress levels in percentage 
 beginner = 30   # 5% to 30%
