@@ -8,9 +8,9 @@ Take a look at the code in the editor: it reads a <mark>**float**</mark> value, 
 
 The result should be assigned to y.
 
-Remember that classical algebraic notation likes to omit the multiplication operator ‒ you need to use it explicitly. Note how we change data type to make sure that <mark>x</mark> is of type <mark>float</mark>.
+Remember that classical algebraic notation likes to omit the multiplication operator ‒ you need to use it explicitly. Note how we change data type to make sure that <mark>**x**</mark> is of type <mark>**float**</mark>.
 
-Keep your code clean and readable, and test it using the data we've provided, each time assigning it to the "x" variable (by hardcoding it). Don't be discouraged by any initial failures. Be persistent and inquisitive.
+Keep your code clean and readable, and test it using the data we've provided, each time assigning it to the "**x**" variable (by hardcoding it). Don't be discouraged by any initial failures. Be persistent and inquisitive.
 
 **Sample input**
 <mark>
