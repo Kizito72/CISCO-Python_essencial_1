@@ -4,7 +4,7 @@
 
 Take a look at the code in the editor: it reads a '''**float**''' value, puts it into a variable named '''**x**''', and prints the value of a variable named '''**y**'''. Your task is to complete the code in order to evaluate the following expression:
 
-3x^3^ - 2x^2^ + 3x - 1
+3x<sup>3</sup> - 2x<sup>2</sup> + 3x - 1
 
 The result should be assigned to y.
 
